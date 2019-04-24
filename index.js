@@ -25,6 +25,6 @@ return n;
 }
 
 function makeInt(n) {
-parse(n, 10);
+parseInt(n, 10);
 return n;
 }
