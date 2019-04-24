@@ -30,6 +30,6 @@ return int;
 }
 
 function preserveDecimal(n) {
-psflt =  parseFloat(n);
+let psflt =  parseFloat(n);
 return psflt;
 }
