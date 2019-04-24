@@ -28,3 +28,8 @@ function makeInt(n) {
 let int = parseInt(n, 10);
 return int;
 }
+
+function preserveDecimal(n) {
+psflt =  parseFloat(n);
+return psflt;
+}
