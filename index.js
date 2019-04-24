@@ -20,7 +20,7 @@ return n;
 }
 
 function dec(n) {
-note--
+n--
 return n;
 }
 
