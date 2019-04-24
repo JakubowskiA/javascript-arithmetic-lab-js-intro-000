@@ -20,10 +20,10 @@ return n;
 }
 
 function dec(n) {
-note--  
+note--
 return n;
 }
 
 function makeInt(n) {
-  
+
 }
